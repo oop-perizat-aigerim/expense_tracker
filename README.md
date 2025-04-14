@@ -51,7 +51,8 @@ MATDAIS23 group
 
 ##### UML Class Diagram
 ![UML](https://github.com/user-attachments/assets/8ef38b05-739d-4a2b-b82f-7724029eb81a)
-![UML1](https://github.com/user-attachments/assets/5d36fecd-12fe-4761-9a59-87376cbe8508)
+![Uml1 (2)](https://github.com/user-attachments/assets/69cf4f33-89cc-4d74-9036-f6720c2ef611)
+
 
 
 
