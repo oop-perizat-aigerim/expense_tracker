@@ -3,7 +3,7 @@ from datetime import datetime
 
 from PyQt6 import uic
 from PyQt6.QtCore import QAbstractTableModel, QModelIndex, Qt, QItemSelection
-from PyQt6.QtWidgets import QMainWindow, QLineEdit, QPushButton, QTableView, QTabWidget, QComboBox
+from PyQt6.QtWidgets import QMainWindow, QLineEdit, QPushButton, QTableView, QTabWidget, QComboBox, QMessageBox
 from transaction import Transaction
 from service import TransactionService
 
@@ -75,6 +75,11 @@ class MainWindow(QMainWindow):
         self.tablemodel_type = self.transactionservice.amount_by_type(transaction)
         self.tablemodel_cat = self.transactionservice.amount_by_category(transaction)
 
+        exp_msg = QMessageBox()
+        exp_msg.setWindowTitle("Adding Expense")
+        exp_msg.setText("New Expense added successfully!")
+        x = exp_msg.exec()
+
     def on_click_inc_add(self):
         amount = self.incomeLineEdit.text()
         date = str(datetime.now())
@@ -86,6 +91,11 @@ class MainWindow(QMainWindow):
         self.tablemodel.addTransaction(transaction)
         self.tablemodel_cat = self.transactionservice.amount_by_category(transaction)
         self.tablemodel_type = self.transactionservice.amount_by_type(transaction)
+
+        inc_msg = QMessageBox()
+        inc_msg.setWindowTitle("Adding Income")
+        inc_msg.setText("New Income added successfully!")
+        x = inc_msg.exec()
 
     def on_click_clear(self):
         self.expenseLineEdit.clear()
