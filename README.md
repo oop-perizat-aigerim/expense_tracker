@@ -1,5 +1,3 @@
-# expense_tracker
-
 # Expence Tracker
 ____
 ##### Description 
@@ -9,6 +7,9 @@ Project's purpose and functionality
  ⁃ Total amount of money transactions 
  ⁃ History of transactions 
  ⁃ Tracking expences by category 
+
+##### Presentation of the Project
+https://docs.google.com/presentation/d/1eXxuaBTibxrJLYqz69i6aBji6nvgpzyujE44pO6CfJI/edit?usp=sharing
 
 ##### Project's Requirements List
  ⁃ User-friendly and appealing GUI 
