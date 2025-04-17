@@ -12,16 +12,16 @@ Project's purpose and functionality
 https://docs.google.com/presentation/d/1eXxuaBTibxrJLYqz69i6aBji6nvgpzyujE44pO6CfJI/edit?usp=sharing
 
 ### Project's Requirements List
- ⁃ User-friendly and appealing GUI 
- ⁃ Well-defined logic of operations (expence, income etc.)
- ⁃ Spending categories 
- ⁃ 3 tables in Database
- ⁃ DAO, UI, entity classes
- ⁃ History of transactions 
- ⁃ Transactions and amount by category
- ⁃ Total amount of money spent
- ⁃ Appropriate messages 
- ⁃ Correctness of outputs
+ 1. User-friendly and appealing GUI 
+ 2. Well-defined logic of operations (expence, income etc.)
+ 3. Spending categories 
+ 4. 3 tables in Database
+ 5. DAO, UI, entity classes
+ 6. History of transactions 
+ 7. Transactions and amount by category
+ 8. Total amount of money spent
+ 9. Appropriate messages 
+ 10. Correctness of outputs
 
 ### Team Members List and Roles
 MATDAIS23 group
