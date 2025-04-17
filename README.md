@@ -1,6 +1,6 @@
 # Expence Tracker
 ____
-##### Description 
+### Description 
 Project's purpose and functionality
  ⁃ Time management 
  ⁃ Expence and income tracking
@@ -8,10 +8,10 @@ Project's purpose and functionality
  ⁃ History of transactions 
  ⁃ Tracking expences by category 
 
-##### Presentation of the Project
+### Presentation of the Project
 https://docs.google.com/presentation/d/1eXxuaBTibxrJLYqz69i6aBji6nvgpzyujE44pO6CfJI/edit?usp=sharing
 
-##### Project's Requirements List
+### Project's Requirements List
  ⁃ User-friendly and appealing GUI 
  ⁃ Well-defined logic of operations (expence, income etc.)
  ⁃ Spending categories 
@@ -23,12 +23,12 @@ https://docs.google.com/presentation/d/1eXxuaBTibxrJLYqz69i6aBji6nvgpzyujE44pO6C
  ⁃ Appropriate messages 
  ⁃ Correctness of outputs
 
-##### Team Members List and Roles
+### Team Members List and Roles
 MATDAIS23 group
  1. Bekibaeva Aigerim - GUI, DataBase, Logic, Presentation
  2. Kunduzbekova Perizat - Class controller, Connections within Parts, Service
 
-##### Screenshots
+### Screenshots
 **Application:**
 
 ![m1](https://github.com/user-attachments/assets/33366cd6-00a6-481f-a260-2fad87ef6ee4)
@@ -56,7 +56,7 @@ MATDAIS23 group
 
 
 
-##### UML Class Diagram
+### UML Class Diagram
 ![UML2](https://github.com/user-attachments/assets/1608a1a3-ba4f-48b4-a810-42ac59fd4e70)
 
 ![Uml1 (2)](https://github.com/user-attachments/assets/69cf4f33-89cc-4d74-9036-f6720c2ef611)
